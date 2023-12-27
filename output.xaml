@@ -1,0 +1,7 @@
+<Button  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6.0, 42.0, 0,0" Height="100.0" Width="100.0"  />
+<Button HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120.0, 48.0, 0,0" Height="100.0" Width="100.0"  />
+<Label HorizontalAlignment="Left" VerticalAlignment="Top" Margin="271.0, 11.0, 0,0" Height="100.0" Width="100.0"  />
+<Button  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="189.0, 181.0, 0,0" Height="124.0" Width="62.0"  />
+<Button  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="220.0, 305.0, 0,0" Height="100.0" Width="100.0"  />
+<Label  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="71.0, 164.0, 0,0" Height="100.0" Width="100.0"  />
+<Label  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="308.0, 122.0, 0,0" Height="100.0" Width="100.0"  />
