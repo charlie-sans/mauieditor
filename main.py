@@ -189,7 +189,7 @@ class MainWindow(QMainWindow):
         fileMenu.addAction("New")
         fileMenu.addAction("Open")
         fileMenu.addAction("Save")
-        Exportmenu = fileMenu.addMenu("Export")
+        Exportmenu = fileMenu.addMenu("Export")``
         Exportmenu.addAction("Export to C#")
         
         # setup bindings
